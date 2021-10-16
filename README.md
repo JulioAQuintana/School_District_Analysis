@@ -7,20 +7,20 @@ This analysis shows evidence of academic dishonesty; for reading and math grades
 ## Results.
 
 * ### 1. How is the district summary affected?
-     #### looks like minimal changes in final results compared before and after changes for dishonesty results based on district summary, when the round format is applied the   final results looks like same values in the averages of math, reading and overall results. in the following images we can see the tables for minimal changes 
+#### looks like minimal changes in final results compared before and after changes for dishonesty results based on district summary, when the round format is applied the   final results looks like same values in the averages of math, reading and overall results. in the following images we can see the tables for minimal changes 
 
-     ####  Results before changes
-  image 
+####  Results before changes
+ ![before update](https://github.com/JulioAQuintana/School_District_Analysis/blob/main/Resources/FinalResults.png)
   
-     ####  Results after changes
-  
+####  Results after changes
+![before update](https://github.com/JulioAQuintana/School_District_Analysis/blob/main/Resources/FinalResultsEnd.png)  
 * ### 2. How is the school summary affected?
-      ####  _looks like minimal changes in final results compared before and after also for school summary, when the round format is applied the final results looks like same values in the averages of math, reading and overall results. in the following images we can see the tables for minimal changes _
+     ####  looks like minimal changes in final results compared before and after also for school summary, when the round format is applied the final results looks like same values in the averages of math, reading and overall results. in the following images we can see the tables for minimal changes
 * ### 3.How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-      ####  _It decrease in the overall passing result in 0.3% _
+     ####  It decrease in the overall passing result in 0.3% 
 * ### 4.How does replacing the ninth-grade scores affect the following:
-    * #### _Math and reading scores by grade, decrease the values en every grade but when it is rounded no major changes appears_
-    * #### _Scores by school spending = No major changes un the clasification of every school group
+   * #### Math and reading scores by grade, decrease the values en every grade but when it is rounded no major changes appears
+   * #### Scores by school spending = No major changes un the clasification of every school group
       code reference by column calculation
       ```Python script 
         # Calculate averages for the desired columns. 
