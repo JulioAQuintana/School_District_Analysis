@@ -1,6 +1,5 @@
 # School_District_Analysis
 Code Version 1.0
- #### Code file reference: PyCitySchools_Challenge.ipynb
 
 ## Project Overview
 This analysis shows evidence of academic dishonesty; for reading and math grades for Thomas High School ninth graders that appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, so with this analysis we will see before and after analysis with discrepances to describe how these changes affected the overall analysis.
@@ -66,8 +65,8 @@ This analysis shows evidence of academic dishonesty; for reading and math grades
 
         ```
 ## Summary
- ### this code represent all the functions during the module as loc(), replace() as the main NaN requiriment replacement from the starter code, my conclusion at the end results looks with no major changes in the values after rounded values process and finally good challenge was to keep the order for every analysis using similar formula to allow me the good comprension of the data cleaning. 
+  #### this code represent all the functions during the module as loc(), replace() as the main NaN requiriment replacement from the starter code, my conclusion at the end     results  looks with no major changes in the values after rounded values process and finally good challenge was to keep the order for every analysis using similar formula to allow me the good comprension of the data cleaning. 
    
-   Finally, feel free to take reference into the code by PyPoll.py file located in the repository "School District Analysis"
+   Finally, feel free to take reference into the code by PyCitySchools_Challenge.ipynb file located in the repository "School District Analysis"
    #### (https://github.com/JulioAQuintana/School_District_Analysis)
 
